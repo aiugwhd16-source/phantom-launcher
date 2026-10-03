@@ -27,7 +27,7 @@ Proprietary. All rights reserved. This repository contains
 documentation only.
 
 ## Contact
-YOUR_EMAIL_HERE
+yodabattle3fr@gmail.com
 
 *Phantom is not affiliated with or endorsed by Mojang or Microsoft.
 Minecraft is a trademark of Mojang Synergies AB.*
